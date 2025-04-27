@@ -6,19 +6,19 @@ Dieses Projekt ist eine einfache React-Anwendung, die Daten über eine öffentli
 
 # Funktionale Anforderungen:
 - Datenabruf: 
-  Abruf von JSON-Daten über eine öffentliche API (z.B. [REST Countries API](https://restcountries.com/)).
+  Abruf von JSON-Daten über eine öffentliche API
 - Speicherung:
   Die abgerufenen Daten werden mithilfe von `useState` im lokalen State verwaltet.
 - Anzeige: 
-  Darstellung der Daten in einer Liste (z.B. Ländername und Hauptstadt).
+  Darstellung der Daten in einer Liste (z.B. Ländername, Flagge und Hauptstadt).
 - Interaktion:  
   Integration eines Suchfeldes zur Filterung der angezeigten Daten.
 
 # Technologien
 - React
-- JavaScript (ES6+)
+- JavaScript
 - Axios (oder Fetch API) für den Datenabruf
-- HTML & CSS (Grundlagen)
+- HTML & CSS
 
 
 # Projektautoren
