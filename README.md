@@ -22,6 +22,6 @@ Dieses Projekt ist eine einfache React-Anwendung, die Daten über eine öffentli
 
 
 # Projektautoren
-- Baer
+- Bär
 - Ebel
 - Türel
